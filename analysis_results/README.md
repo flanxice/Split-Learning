@@ -21,7 +21,7 @@ get some pictures
 
 ![net1](./pictures/net1.png)
 
-![net2](./ictures/net2.png)
+![net2](./pictures/net2.png)
 
 ![net3](./pictures/net3.png)
 
