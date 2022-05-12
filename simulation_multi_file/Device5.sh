@@ -1,0 +1,1 @@
+nohup python ./Device5.py > ./log/Device5_error.log&

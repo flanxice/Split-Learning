@@ -1,0 +1,1 @@
+nohup python ./Server_Separate4.py > ./log/Server_Separate4_error.log&

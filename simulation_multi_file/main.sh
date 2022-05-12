@@ -1,0 +1,1 @@
+nohup python ./Server_Center.py > ./log/Server_Center.log&
