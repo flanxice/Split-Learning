@@ -29,7 +29,7 @@ it will create train_process and test_process (2 files)
 or enter dict ServerNOGUI run Server.py
 ```
 
-![6](..\report\figure\6.png)
+![6](../report/figure/6.png)
 
 
 
