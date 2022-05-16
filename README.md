@@ -1,5 +1,5 @@
 # Split-Learning
-the codes and paper of split-learning of 3 kinds 
+the codes and paper of split-learning
 
 详情请见：
 
